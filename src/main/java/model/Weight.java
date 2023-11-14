@@ -16,6 +16,6 @@ public class Weight {
 
     @Override
     public String toString() {
-        return String.format("%d", cost);
+        return String.format("%f", cost);
     }
 }
